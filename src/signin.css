@@ -21,6 +21,9 @@
 
 .banner {
     position: absolute;
+    /* is used to position an element relative 
+    to its nearest positioned ancestor or the initial 
+    containing block */
     top: 20%;
     left: -36rem;
     text-align: center;
